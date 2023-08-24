@@ -1,4 +1,4 @@
 # cap
-start day1
+hello how r u
 hello 
 hi
